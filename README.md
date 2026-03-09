@@ -56,15 +56,6 @@ I have a deep interest in **UI and web development** paired with **proper backen
 
 ---
 
-### 📊 MY GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndrewRobalino&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Andrew's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewRobalino&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 REACH OUT
 -   **Email:** [Andrewrobalino1@gmail.com](mailto:Andrewrobalino1@gmail.com)
 -   **LinkedIn:** [Andrew Robalino Garcia](https://www.linkedin.com/in/andrew-robalino-garcia-b74563323/)
