@@ -39,19 +39,9 @@ I have a deep interest in **UI and web development** paired with **proper backen
 
 **Tools & Environment**
 <p align="left">
-  <a href="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,clion,vercel" />
-</p>
-
----
-
-### 📊 MY GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndrewRobalino&show_icons=true&theme=tokyonight" alt="Andrew's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewRobalino&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,clion,vercel" />
+  </a>
 </p>
 
 ---
