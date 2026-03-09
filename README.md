@@ -39,6 +39,8 @@ I have a deep interest in **UI and web development** paired with **proper backen
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/SSH-%23000000.svg?style=for-the-badge&logo=ssh&logoColor=white" alt="SSH" />
+  <img src="https://img.shields.io/badge/WSL-blueviolet?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="WSL" />
 </p>
 
 **Frontend & Design**
@@ -54,6 +56,7 @@ I have a deep interest in **UI and web development** paired with **proper backen
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
 </p>
 
 ---
