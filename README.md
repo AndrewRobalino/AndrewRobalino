@@ -25,23 +25,32 @@ I have a deep interest in **UI and web development** paired with **proper backen
 
 **Languages**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c" title="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
 </p>
 
 **Frameworks & Libraries**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,vite,bootstrap" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react" title="React" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=vite" title="Vite" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
 </p>
 
 **Tools & Environment**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,clion,vercel" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash/Terminal" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=clion" title="CLion" />
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />
 </p>
 
 ---
