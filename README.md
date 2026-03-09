@@ -36,7 +36,7 @@ I have a deep interest in **UI and web development** paired with **proper backen
 
 **Backend & Systems**
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Node.js-%23663399.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Linux-%23800080.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Shell_Script-%23A020F0.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/SSH-%23DA70D6.svg?style=for-the-badge&logo=ssh&logoColor=white" alt="SSH" />
