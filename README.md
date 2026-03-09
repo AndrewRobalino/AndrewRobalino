@@ -55,6 +55,13 @@ I have a deep interest in **UI and web development** paired with **proper backen
 
 ---
 
+### 🏆 ACHIEVEMENTS
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=AndrewRobalino&theme=tokyonight&no-frame=true&column=4" alt="Andrew's GitHub Trophies" />
+</p>
+
+---
+
 ### 📫 REACH OUT
 -   **Email:** [Andrewrobalino1@gmail.com](mailto:Andrewrobalino1@gmail.com)
 -   **LinkedIn:** [Andrew Robalino Garcia](https://www.linkedin.com/in/andrew-robalino-garcia-b74563323/)
