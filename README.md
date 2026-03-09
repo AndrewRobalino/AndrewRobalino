@@ -61,7 +61,9 @@ I have a deep interest in **UI and web development** paired with **proper backen
 
 **AI & LLM Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-%2374aa9c.svg?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-%238E75C2.svg?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 </p>
 
 ---
