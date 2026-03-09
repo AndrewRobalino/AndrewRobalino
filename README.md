@@ -59,6 +59,11 @@ I have a deep interest in **UI and web development** paired with **proper backen
   <img src="https://img.shields.io/badge/Netlify-%23FF8C00.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
+**AI & LLM Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-%2374aa9c.svg?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+</p>
+
 ---
 
 ### 📫 REACH OUT
