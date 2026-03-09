@@ -25,32 +25,32 @@ I have a deep interest in **UI and web development** paired with **proper backen
 
 **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c" title="C" />
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
-  <img src="https://skillicons.dev/icons?i=java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" title="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" />
 </p>
 
 **Frameworks & Libraries**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" title="React" />
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=vite" title="Vite" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" />
 </p>
 
 **Tools & Environment**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
-  <img src="https://skillicons.dev/icons?i=bash" title="Bash/Terminal" />
-  <img src="https://skillicons.dev/icons?i=git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
-  <img src="https://skillicons.dev/icons?i=clion" title="CLion" />
-  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash/Terminal" title="Bash/Terminal" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=clion" alt="CLion" title="CLion" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" />
 </p>
 
 ---
