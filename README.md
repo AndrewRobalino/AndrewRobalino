@@ -55,9 +55,12 @@ I have a deep interest in **UI and web development** paired with **proper backen
 
 ---
 
-### 🏆 ACHIEVEMENTS
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=AndrewRobalino&theme=tokyonight&no-frame=true&column=4" alt="Andrew's GitHub Trophies" />
+### 📊 MY GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndrewRobalino&show_icons=true&theme=tokyonight" alt="Andrew's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewRobalino&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
