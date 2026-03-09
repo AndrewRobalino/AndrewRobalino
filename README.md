@@ -25,32 +25,42 @@ I have a deep interest in **UI and web development** paired with **proper backen
 
 **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c" alt="C" title="C" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-**Frameworks & Libraries**
+**Backend & Systems**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
-**Tools & Environment**
+**Frontend & Design**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" />
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash/Terminal" title="Bash/Terminal" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
-  <img src="https://skillicons.dev/icons?i=clion" alt="CLion" title="CLion" />
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
+
+**Cloud & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+---
+
+### 📊 MY GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndrewRobalino&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Andrew's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewRobalino&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 ---
