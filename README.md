@@ -16,7 +16,19 @@ My long-term goal is to work at the intersection of **AI and computational astro
 
 ### 🚀 FEATURED PROJECTS
 
-**🌌 [SkyVault](https://github.com/AndrewRobalino/skyvault)** — An interactive 3D night sky for any place and moment, rendering **real observational data** from ESA Gaia DR3, NASA JPL, the IAU, and the NASA Exoplanet Archive. Built with a **React + Vite** frontend (Canvas 2D / WebGL) and a **FastAPI + Astropy** backend for precise coordinate transformations and ephemeris calculations. *No faked values, no approximations — every data point is attributed.*
+**🌌 [SkyVault](https://github.com/AndrewRobalino/skyvault)** — An interactive 3D night sky for any place and moment, rendering **real observational data** from the world's leading space institutions — *no procedural generation, no faked values, every data point attributed to its source.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NASA_JPL-%23105BD8.svg?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA JPL" />
+  <img src="https://img.shields.io/badge/ESA_Gaia_DR3-%23003247.svg?style=for-the-badge&logo=esa&logoColor=white" alt="ESA Gaia DR3" />
+  <img src="https://img.shields.io/badge/NASA_Exoplanet_Archive-%230B3D91.svg?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Exoplanet Archive" />
+  <img src="https://img.shields.io/badge/IAU_Constellations-%231A1A40.svg?style=for-the-badge&logoColor=white" alt="IAU" />
+  <img src="https://img.shields.io/badge/CDS_SIMBAD-%23355C7D.svg?style=for-the-badge&logoColor=white" alt="CDS SIMBAD" />
+</p>
+
+- **Real astronomical data**: ESA **Gaia DR3** star positions/magnitudes/parallax, **JPL DE421** ephemerides for solar-system bodies, the **88 IAU constellations**, the **NASA Exoplanet Archive**, and **CDS SIMBAD** metadata.
+- **Backend** — **FastAPI + Astropy / Astroquery / jplephem**, handling precise coordinate transformations and ephemeris calculations over large catalogs served via NumPy, Pandas & PyArrow.
+- **Frontend** — **React + Vite** with hand-written **Canvas 2D & WebGL** rendering (no 3D engine), **Zustand** for client state and **TanStack Query** for data fetching.
 
 **📊 DocuMind** — An **AI-powered financial analysis platform** for construction project management, built in **Python**. Uses AI to parse documents and surface financial insight, turning unstructured project data into clear, decision-ready analysis.
 
@@ -48,8 +60,11 @@ My long-term goal is to work at the intersection of **AI and computational astro
 **Scientific Computing & Data**
 <p align="left">
   <img src="https://img.shields.io/badge/Astropy-%23E07A1F.svg?style=for-the-badge&logo=python&logoColor=white" alt="Astropy" />
+  <img src="https://img.shields.io/badge/Astroquery-%23D9772B.svg?style=for-the-badge&logo=python&logoColor=white" alt="Astroquery" />
+  <img src="https://img.shields.io/badge/jplephem-%23105BD8.svg?style=for-the-badge&logo=nasa&logoColor=white" alt="jplephem" />
   <img src="https://img.shields.io/badge/NumPy-%234D77CF.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Apache_Arrow-%23000000.svg?style=for-the-badge&logo=apachearrow&logoColor=white" alt="PyArrow" />
   <img src="https://img.shields.io/badge/WebGL-%23990000.svg?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
   <img src="https://img.shields.io/badge/Canvas-%23E72429.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Canvas" />
 </p>
@@ -73,6 +88,7 @@ My long-term goal is to work at the intersection of **AI and computational astro
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Vite-%234CAF50.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Zustand-%232E8B57.svg?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/TanStack_Query-%2300C58E.svg?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
 </p>
 
 **Cloud & Tools**
