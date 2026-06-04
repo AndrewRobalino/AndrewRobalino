@@ -1,22 +1,31 @@
 # HI THERE, I'M ANDREW ROBALINO GARCIA 👋
 
-I am a **Computer Science Student** at **Florida International University (FIU)**, graduating in **December 2026**. I'm a developer with a passion for creating and pushing new projects to refine my skills. 
+I am a **Computer Science Student** at **Florida International University (FIU)**, graduating in **December 2026**. I'm a **full-stack developer** focused on building complete, well-architected products — from clean backend logic to polished, intuitive interfaces.
 
-I have a deep interest in **UI and web development** paired with **proper backend architecture**. I'm dedicated to building things I love while constantly learning to be better, including exploring the practical use cases of AI in modern development.
+My long-term goal is to work at the intersection of **AI and computational astrophysics** — combining scientific computing, large real-world datasets, and modern software engineering to build tools that turn complex data into something people can actually use and understand.
 
 ---
 
 ### 🔭 CURRENT FOCUS
--   **Real-World Deployment**: Moving beyond local code to better deploy projects with real-world implementations.
--   **Language Mastery**: Deepening my understanding of different programming languages to choose the right tool for every job.
--   **AI Integration**: Learning to effectively leverage AI tools and models to enhance the development workflow.
--   **System Proficiency**: Improving my knowledge of the **Terminal** and **Linux** environments for more efficient engineering.
+-   **AI & Computational Astrophysics**: Working with real astronomical datasets (ESA Gaia DR3, NASA JPL) and scientific computing to model and visualize the universe.
+-   **Full-Stack Product Building**: Shipping complete products end-to-end — solid backend architecture paired with thoughtful, usable frontends.
+-   **AI Integration**: Building AI-powered platforms and leveraging LLMs to turn raw data and documents into actionable insight.
+-   **Real-World Deployment**: Taking projects beyond local code into deployed, real-world implementations.
+
+---
+
+### 🚀 FEATURED PROJECTS
+
+**🌌 [SkyVault](https://github.com/AndrewRobalino/skyvault)** — An interactive 3D night sky for any place and moment, rendering **real observational data** from ESA Gaia DR3, NASA JPL, the IAU, and the NASA Exoplanet Archive. Built with a **React + Vite** frontend (Canvas 2D / WebGL) and a **FastAPI + Astropy** backend for precise coordinate transformations and ephemeris calculations. *No faked values, no approximations — every data point is attributed.*
+
+**📊 DocuMind** — An **AI-powered financial analysis platform** for construction project management, built in **Python**. Uses AI to parse documents and surface financial insight, turning unstructured project data into clear, decision-ready analysis.
 
 ---
 
 ### 🌱 CURRENTLY LEARNING
--   **Advanced Backend Writing**: Focus on clean, scalable, and efficient server-side logic.
--   **Modern UI/UX**: Creating intuitive and visually appealing web interfaces.
+-   **Scientific Computing**: Astropy, numerical methods, and working with large institutional datasets.
+-   **Advanced Backend Architecture**: Clean, scalable, and efficient server-side logic.
+-   **AI/LLM Engineering**: Document processing, retrieval, and integrating models into real applications.
 -   **Linux Systems Administration**: Mastering the command line and shell scripting.
 
 ---
@@ -25,20 +34,30 @@ I have a deep interest in **UI and web development** paired with **proper backen
 
 **Languages**
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-%23007ACC.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-%23004482.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-%23007ACC.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/SQL-%23005C84.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/HTML5-%23206592.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
+**Scientific Computing & Data**
+<p align="left">
+  <img src="https://img.shields.io/badge/Astropy-%23E07A1F.svg?style=for-the-badge&logo=python&logoColor=white" alt="Astropy" />
+  <img src="https://img.shields.io/badge/NumPy-%234D77CF.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/WebGL-%23990000.svg?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
+  <img src="https://img.shields.io/badge/Canvas-%23E72429.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Canvas" />
+</p>
+
 **Backend & Systems**
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-%23663399.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/FastAPI-%237B2D8E.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-%23663399.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/PostgreSQL-%236A0DAD.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-%23BA55D3.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Docker-%23551A8B.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
