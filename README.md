@@ -1,6 +1,6 @@
 # HI THERE, I'M ANDREW ROBALINO GARCIA 👋
 
-I am a **Computer Science Student** at **Florida International University (FIU)**, graduating in **December 2026**. I'm a **full-stack developer** focused on building complete, well-architected products — from clean backend logic to polished, intuitive interfaces.
+I am a **Computer Science Student** at **Florida International University (FIU)**, graduating in **Summer 2026**. I'm a **full-stack developer** focused on building complete, well-architected products — from clean backend logic to polished, intuitive interfaces.
 
 My long-term goal is to work at the intersection of **AI and computational astrophysics** — combining scientific computing, large real-world datasets, and modern software engineering to build tools that turn complex data into something people can actually use and understand.
 
