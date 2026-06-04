@@ -59,14 +59,14 @@ My long-term goal is to work at the intersection of **AI and computational astro
 
 **Scientific Computing & Data**
 <p align="left">
-  <img src="https://img.shields.io/badge/Astropy-%23E07A1F.svg?style=for-the-badge&logo=python&logoColor=white" alt="Astropy" />
-  <img src="https://img.shields.io/badge/Astroquery-%23D9772B.svg?style=for-the-badge&logo=python&logoColor=white" alt="Astroquery" />
-  <img src="https://img.shields.io/badge/jplephem-%23105BD8.svg?style=for-the-badge&logo=nasa&logoColor=white" alt="jplephem" />
-  <img src="https://img.shields.io/badge/NumPy-%234D77CF.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Apache_Arrow-%23000000.svg?style=for-the-badge&logo=apachearrow&logoColor=white" alt="PyArrow" />
-  <img src="https://img.shields.io/badge/WebGL-%23990000.svg?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
-  <img src="https://img.shields.io/badge/Canvas-%23E72429.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Canvas" />
+  <img src="https://img.shields.io/badge/Astropy-%230A2E5C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Astropy" />
+  <img src="https://img.shields.io/badge/Astroquery-%23103A73.svg?style=for-the-badge&logo=python&logoColor=white" alt="Astroquery" />
+  <img src="https://img.shields.io/badge/jplephem-%2316468A.svg?style=for-the-badge&logo=nasa&logoColor=white" alt="jplephem" />
+  <img src="https://img.shields.io/badge/NumPy-%231C53A1.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-%232360B8.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Apache_Arrow-%232E6FCC.svg?style=for-the-badge&logo=apachearrow&logoColor=white" alt="PyArrow" />
+  <img src="https://img.shields.io/badge/WebGL-%233B7FDB.svg?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
+  <img src="https://img.shields.io/badge/Canvas-%234A90E2.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Canvas" />
 </p>
 
 **Backend & Systems**
